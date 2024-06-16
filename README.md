@@ -26,3 +26,5 @@ STC Demo only has one of the TWO Jester fights, both will be in STC Full, as fol
 - Beat Jester again (Jester's Encore), with a Rock styled version of the first song.
 
 The full version of STC might be paid, depends on reception of the Demo.
+
+# STC details made public, starting development soon!
